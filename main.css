@@ -262,3 +262,6 @@ li {
     background: var(--primary-color);
     box-shadow: -500px 0 0 500px var(--primary-color);
   }
+.control{
+    text-align: center;
+}
